@@ -1,4 +1,4 @@
-อ้างอิงตามสมุดแลปเล่มนี้
+# Computer-Programming-II
 
 Week 1 การควบคุม
 
